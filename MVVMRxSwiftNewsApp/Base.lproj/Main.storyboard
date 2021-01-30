@@ -43,6 +43,7 @@
                                         </stackView>
                                     </subviews>
                                     <constraints>
+                                        <constraint firstItem="4Il-gc-5Fu" firstAttribute="leading" secondItem="k0n-dK-Nfd" secondAttribute="leading" id="6EP-p9-t4Y"/>
                                         <constraint firstItem="4Il-gc-5Fu" firstAttribute="top" secondItem="k0n-dK-Nfd" secondAttribute="top" constant="20" symbolic="YES" id="6VH-fR-T9Z"/>
                                         <constraint firstAttribute="bottom" secondItem="4Il-gc-5Fu" secondAttribute="bottom" id="LJA-s3-7cm"/>
                                         <constraint firstAttribute="trailing" secondItem="4Il-gc-5Fu" secondAttribute="trailing" constant="20" symbolic="YES" id="W4u-iX-ANu"/>

@@ -1,0 +1,6 @@
+module Pods_MVVMRxSwiftNewsApp_MVVMRxSwiftNewsAppUITests {
+  umbrella header "Pods-MVVMRxSwiftNewsApp-MVVMRxSwiftNewsAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
